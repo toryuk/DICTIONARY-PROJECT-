@@ -27,6 +27,44 @@ ibibio_dict = {
 
 
 
+# 5. IDOMA DICTIONARY (20 words)
+idoma_dict = {
+    "buy": "kpa", 
+    "sell": "kpa", 
+    "read": "ka", 
+    "water": "ama", 
+    "food": "onogwu",
+    "man": "omo", 
+    "woman": "oya", 
+    "child": "owa", 
+    "house": "ogwu", 
+    "school": "skul",
+    "book": "ibuku", 
+    "friend": "ochi", 
+    "money": "ego", 
+    "sleep": "li", 
+    "run": "gba",
+    "see": "na", 
+    "love": "ayima", 
+    "work": "iho", 
+    "god": "Owoicho", 
+    "good": "yo"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 while True:
     print("\n=========================")
     print("   NIGERIAN LANGUAGE DICTIONARY")
