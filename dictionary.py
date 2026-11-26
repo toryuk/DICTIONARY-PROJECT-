@@ -82,7 +82,7 @@ idoma_dict = {
 
 
 
-# 4. ETSAKO DICTIONARY (20 words)
+# 4. ETSAKO DICTIONARY victor onoshioagbe Blessing (20 words)
 etsako_dict = {
     "buy": "Dẹ", 
     "sell": "kie", 
