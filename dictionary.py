@@ -1,3 +1,4 @@
+
 # 2. YORUBA DICTIONARY by Shannon Akonti(20 words)
 yoruba_dict = {
     "buy": "Rà", 
@@ -75,6 +76,35 @@ idoma_dict = {
     "good": "yo"
 }
 
+
+
+
+
+
+
+# 4. ETSAKO DICTIONARY (20 words)
+etsako_dict = {
+    "buy": "Dẹ", 
+    "sell": "kie", 
+    "read": "Zẹ", 
+    "water": "Amẹ", 
+    "food": "Ema",
+    "man": "Ọzawo", 
+    "woman": "Ọkpotsot", 
+    "child": "Ọmọ", 
+    "house": "Owa", 
+    "school": "Owowẹna",
+    "book": "Ebe", 
+    "friend": "Ukuekhia", 
+    "money": "Igho", 
+    "sleep": "ogwe", 
+    "run": "Na",
+    "see": "Miẹ", 
+    "love": "Uyemi", 
+    "work": "akanya", 
+    "god": "Ọghẹna", 
+    "good": "emeso"
+}
 
 
 
