@@ -1,4 +1,4 @@
-# 2. YORUBA DICTIONARY (20 words)
+# 2. YORUBA DICTIONARY by Shannon Akonti(20 words)
 yoruba_dict = {
     "buy": "Rà", 
     "sell": "Tà", 
