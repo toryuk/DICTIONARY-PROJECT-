@@ -1,3 +1,27 @@
+# 2. YORUBA DICTIONARY (20 words)
+yoruba_dict = {
+    "buy": "Rà", 
+    "sell": "Tà", 
+    "read": "Kà", 
+    "water": "Omi", 
+    "food": "Oúnjẹ",
+    "man": "Ọkùnrin", 
+    "woman": "Obìnrin", 
+    "child": "Ọmọ", 
+    "house": "Ilé", 
+    "school": "Ilé-ìwé",
+    "book": "Ìwé", 
+    "friend": "Ọ̀rẹ́", 
+    "money": "Owó", 
+    "sleep": "Sùn", 
+    "run": "Sáré",
+    "see": "Rí", 
+    "love": "Fẹ́ràn", 
+    "work": "Iṣẹ́", 
+    "god": "Ọlọ́run", 
+    "good": "Dára"
+}
+
 
 # 3. IBIBIO DICTIONARY (20 words)
 ibibio_dict = {
